@@ -1,1 +1,1 @@
-#Desktop Guide and EFI-Folder
+#Laptop Guide and EFI-Folder
