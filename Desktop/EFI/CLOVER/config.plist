@@ -90,7 +90,7 @@
 		<key>Arguments</key>
 		<string>dart=0</string>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>MacHD</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Log</key>
@@ -98,7 +98,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>15</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -144,11 +144,6 @@
 	</array>
 	<key>GUI</key>
 	<dict>
-		<key>Hide</key>
-		<array>
-			<string>Windows</string>
-			<string>\EFI\BOOT\BOOTX64.EFI</string>
-		</array>
 		<key>Language</key>
 		<string>en:0</string>
 		<key>Mouse</key>
@@ -170,7 +165,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>tonymacx86</string>
+		<string>clover-theme-minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
